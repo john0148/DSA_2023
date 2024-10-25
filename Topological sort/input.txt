@@ -1,0 +1,28 @@
+{"Afghanistan,Albania": ["Airbus A320 150", "25 business, 125 economy", "4 hours, 10 minutes"]}
+{"Algeria,Andorra": ["Boeing 737 200", "15 business, 105 economy", "2 hours, 56 minutes"]}
+{"Angola,Antigua and Barbuda": ["Embraer E195 120", "20 business, 100 economy", "6 hours, 43 minutes"]}
+{"Argentina,Armenia": ["Bombardier CRJ-900 80", "10 business, 70 economy", "8 hours, 30 minutes"]}
+{"Australia,Austria": ["Airbus A380 550", "50 business, 500 economy", "14 hours, 22 minutes"]}
+{"Azerbaijan,Bahamas": ["Boeing 767 180", "30 business, 150 economy", "5 hours, 18 minutes"]}
+{"Bahrain,Bangladesh": ["Airbus A330 250", "40 business, 210 economy", "9 hours, 45 minutes"]}
+{"Barbados,Belarus": ["Embraer E190 100", "18 business, 82 economy", "3 hours, 51 minutes"]}
+{"Belgium,Belize": ["Boeing 777 350", "45 business, 305 economy", "11 hours, 8 minutes"]}
+{"Benin,Bhutan": ["Airbus A319 120", "20 business, 100 economy", "6 hours, 15 minutes"]}
+{"Bolivia,Bosnia and Herzegovina": ["Bombardier Q400 70", "8 business, 62 economy", "7 hours, 20 minutes"]}
+{"Botswana,Brazil": ["Airbus A321 200", "28 business, 172 economy", "9 hours, 5 minutes"]}
+{"Brunei,Bulgaria": ["Boeing 747 400", "60 business, 340 economy", "12 hours, 40 minutes"]}
+{"Burkina Faso,Burundi": ["Embraer E170 80", "12 business, 68 economy", "5 hours, 58 minutes"]}
+{"Cabo Verde,Cambodia": ["Airbus A310 180", "35 business, 145 economy", "8 hours, 30 minutes"]}
+{"Cameroon,Canada": ["Boeing 787 250", "40 business, 210 economy", "10 hours, 12 minutes"]}
+{"Central African Republic,Chad": ["Bombardier CRJ-700 90", "15 business, 75 economy", "4 hours, 32 minutes"]}
+{"Chile,China": ["Airbus A350 300", "48 business, 252 economy", "14 hours, 15 minutes"]}
+{"Colombia,Comoros": ["Boeing 737 MAX 9 150", "25 business, 125 economy", "11 hours, 28 minutes"]}
+{"Costa Rica,Croatia": ["Embraer E175 100", "18 business, 82 economy", "5 hours, 45 minutes"]}
+{"Cyprus,Czech Republic": ["Airbus A319 120", "22 business, 98 economy", "6 hours, 10 minutes"]}
+{"Denmark,Djibouti": ["Boeing 777 350", "48 business, 302 economy", "10 hours, 55 minutes"]}
+{"Dominica,Dominican Republic": ["Embraer E190 100", "20 business, 80 economy", "3 hours, 30 minutes"]}
+{"East Timor,Ecuador": ["Airbus A330 250", "35 business, 215 economy", "9 hours, 30 minutes"]}
+{"Egypt,El Salvador": ["Boeing 747 400", "62 business, 338 economy", "12 hours, 15 minutes"]}
+{"Equatorial Guinea,Eritrea": ["Bombardier Q400 70", "10 business, 60 economy", "5 hours, 5 minutes"]}
+{"Estonia,Eswatini": ["Airbus A321 200", "28 business, 152 economy", "8 hours, 45 minutes"]}
+{"Ethiopia,Fiji": ["Boeing 767 180", "32 business, 148 economy", "13 hours, 12 minutes"]}

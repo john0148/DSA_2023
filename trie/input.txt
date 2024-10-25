@@ -1,0 +1,7 @@
+khai 10
+khang 9
+dat 8
+duy 7
+diem 11
+duan 12
+khoi 13
